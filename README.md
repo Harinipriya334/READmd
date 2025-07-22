@@ -1,9 +1,8 @@
-
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=3000&pause=800&color=0000FF&vCenter=true&width=500&lines=Hi+there!+I'm+Harinipriya+V.;Aspiring+Software+Engineer;Java+%7C+Python+%7C+Creative+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=800&color=FF61F6&center=false&vCenter=true&width=500&lines=Hi+there!+I'm+Harinipriya+V.;Aspiring+Software+Engineer;Java+%7C+Python+%7C+Creative+Thinker" alt="Typing SVG" />
 </p>
 
-<img align="right" src="https://camo.githubusercontent.com/1effdbbd80ddf745de7ea9e4ba346cc9c8d193f6c5f661ee7a8b145d4c8aaa88/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966" alt="cool-dev" width="370"/>
+<img align="right" src="https://camo.githubusercontent.com/1effdbbd80ddf745de7ea9e4ba346cc9c8d193f6c5f661ee7a8b145d4c8aaa88/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966" alt="cool-dev" width="350"/>
 
 ---
 
@@ -13,7 +12,7 @@
 📫 Reach me: **harinipriya169@gmail.com**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Harinipriya334&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harinipriya334&label=Profile%20Views&color=ff61f6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -25,41 +24,39 @@ To obtain a challenging position in a high-quality engineering environment where
 
 ### 🎓 Education
 - **BE – Computer Science and Engineering** (2022–2026)  
-  Vel Tech High Tech, CGPA: **8.46** (up to 6th Sem)  
-- **HSE – Government Vinobha Hr. Sec. School** (2020–2021)  
-  Score: **78.6%**
-- **SSLC – Government Girls Hr. Sec. School** (2018–2019)  
-  Score: **71.4%**
+  Vel Tech High Tech, CGPA: **8.46**  
+- **HSE – Govt. Vinobha Hr. Sec. School** (2020–2021) – **78.6%**  
+- **SSLC – Govt. Girls Hr. Sec. School** (2018–2019) – **71.4%**
 
 ---
 
 ### 💻 Technical Skills
 - **Languages:** Java, Python, SQL, HTML, CSS  
 - **Tools:** VS Code, Google Colab, Tableau, Power BI  
-- **Soft Skills:** Adaptable, Hardworking, Disciplined, Dedicated  
+- **Traits:** Adaptable · Hardworking · Disciplined · Dedicated
 
 ---
 
 ### 🚧 Projects
-- 📊 **Exploring the Evolution of Human Analytics**  
-  Created a dashboard using **Power BI** and **Tableau** to analyze performance accuracy  
-  🔗 [GitHub](https://github.com/Harinipriya334)
+- 📊 **Human Analytics Dashboard**  
+  Created using **Power BI** & **Tableau** for performance accuracy  
+  🔗 [GitHub Project](https://github.com/Harinipriya334)
 
 - 🧠 **Voice-Activated Email System** *(Ongoing)*  
-  Designed for visually impaired users using **Python**
+  Designed using Python for visually impaired users
 
 ---
 
 ### 🏅 Certifications
 - ☁️ Cloud Computing – NPTEL  
-- 💻 The Joy of Computing using Python – NPTEL  
-- ⚙️ Training Session Workshop – IEEE
+- 🧑‍💻 Joy of Computing in Python – NPTEL  
+- 🔧 IEEE Training Workshop
 
 ---
 
 ### 🎯 Extra-Curricular
-- ♟️ Chess Player – Inter-School Clusters Tournament  
-- 🎾 Tennis Player – Intra-College Sports Club  
+- ♟️ Chess – Inter-School Clusters Tournament  
+- 🎾 Tennis – Intra-College Sports Club  
 
 ---
 
@@ -86,7 +83,7 @@ To obtain a challenging position in a high-quality engineering environment where
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Learning+Java+and+Frontend;Building+with+Purpose!&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Learning+Java+and+Frontend;Building+with+Purpose!&center=true&width=500&height=45&color=FF61F6" alt="Typing SVG" />
 </p>
 
 <div align="left">
